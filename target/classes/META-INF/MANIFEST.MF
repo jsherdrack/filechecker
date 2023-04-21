@@ -1,0 +1,64 @@
+Manifest-Version: 1.0
+Main-Class: com.project.filechecker.FilecheckerApplication
+Class-Path: failureaccess-1.0.1.jar istack-commons-runtime-3.0.12.jar ja
+ ckson-annotations-2.13.4.jar netty-common-4.1.84.Final.jar spring-boot-
+ starter-data-rest-2.7.5.jar jackson-module-parameter-names-2.13.4.jar j
+ akarta.activation-api-1.2.2.jar spring-aop-5.3.23.jar spring-boot-start
+ er-logging-2.7.5.jar netty-codec-http-4.1.84.Final.jar jakarta.xml.bind
+ -api-2.3.3.jar spring-webmvc-5.3.23.jar netty-transport-classes-epoll-4
+ .1.84.Final.jar reactor-netty-http-1.0.24.jar msal4j-1.11.0.jar okio-2.
+ 8.0.jar json-20140107.jar jna-platform-5.6.0.jar evo-inflector-1.3.jar 
+ spring-boot-autoconfigure-2.7.5.jar spring-tx-5.3.23.jar jakarta.transa
+ ction-api-1.3.3.jar classmate-1.5.1.jar reactive-streams-1.0.4.jar tomc
+ at-embed-core-9.0.68.jar spring-aspects-5.3.23.jar activation-1.1.jar n
+ etty-codec-http2-4.1.84.Final.jar netty-tcnative-classes-2.0.54.Final.j
+ ar h2-2.1.214.jar spring-plugin-core-2.0.0.RELEASE.jar spring-web-5.3.2
+ 3.jar netty-handler-4.1.84.Final.jar microsoft-graph-5.53.0.jar adal4j-
+ 1.6.7.jar hibernate-core-5.6.12.Final.jar azure-core-1.37.0.jar azure-i
+ dentity-1.9.0-beta.3.jar javax.mail-1.6.2.jar httpcore-4.4.15.jar jul-t
+ o-slf4j-1.7.36.jar checker-qual-3.12.0.jar json-path-2.7.0.jar jsr305-3
+ .0.2.jar netty-resolver-dns-4.1.84.Final.jar logback-core-1.2.11.jar mi
+ crosoft-graph-core-2.0.17.jar logback-classic-1.2.11.jar antlr-2.7.7.ja
+ r jandex-2.4.2.Final.jar log4j-api-2.17.2.jar okhttp-4.9.3.jar lang-tag
+ -1.5.jar mariadb-java-client-3.0.8.jar netty-handler-proxy-4.1.84.Final
+ .jar spring-boot-starter-2.7.5.jar tomcat-embed-el-9.0.68.jar spring-be
+ ans-5.3.23.jar spring-boot-starter-jdbc-2.7.5.jar lombok-1.18.24.jar ja
+ karta.persistence-api-2.2.3.jar spring-orm-5.3.23.jar spring-hateoas-1.
+ 5.2.jar HikariCP-4.0.3.jar guava-31.1-jre.jar kotlin-stdlib-1.6.21.jar 
+ jackson-datatype-jdk8-2.13.4.jar jackson-datatype-jsr310-2.13.4.jar msa
+ l4j-persistence-extension-1.1.0.jar spring-data-commons-2.7.5.jar netty
+ -tcnative-boringssl-static-2.0.54.Final-osx-x86_64.jar spring-jcl-5.3.2
+ 3.jar spring-boot-starter-tomcat-2.7.5.jar reactor-netty-core-1.0.24.ja
+ r log4j-to-slf4j-2.17.2.jar commons-codec-1.15.jar spotbugs-annotations
+ -4.7.3.jar netty-buffer-4.1.84.Final.jar netty-transport-native-unix-co
+ mmon-4.1.84.Final.jar org.apache.oltu.oauth2.common-1.0.2.jar listenabl
+ efuture-9999.0-empty-to-avoid-conflict-with-guava.jar commons-lang3-3.1
+ 2.0.jar httpclient-4.5.10.jar spring-boot-starter-json-2.7.5.jar access
+ ors-smart-2.4.8.jar ant-launcher-1.8.2.jar jackson-databind-2.13.3.jar 
+ netty-tcnative-boringssl-static-2.0.54.Final-linux-x86_64.jar commons-c
+ sv-1.8.jar hibernate-commons-annotations-5.1.2.Final.jar txw2-2.3.7.jar
+  microsoft-graph-auth-0.3.0.jar jcip-annotations-1.0-1.jar jna-5.5.0.ja
+ r spring-boot-starter-web-2.7.5.jar netty-transport-native-kqueue-4.1.8
+ 4.Final-osx-x86_64.jar spring-jdbc-5.3.23.jar spring-expression-5.3.23.
+ jar kotlin-stdlib-common-1.6.21.jar netty-resolver-dns-native-macos-4.1
+ .84.Final-osx-x86_64.jar nimbus-jose-jwt-9.9.3.jar annotations-13.0.jar
+  org.apache.oltu.oauth2.client-1.0.2.jar jackson-core-2.13.4.jar aspect
+ jweaver-1.9.7.jar spring-context-5.3.23.jar spring-core-5.3.23.jar asm-
+ 9.1.jar netty-transport-classes-kqueue-4.1.84.Final.jar j2objc-annotati
+ ons-1.3.jar netty-transport-native-epoll-4.1.84.Final-linux-x86_64.jar 
+ oauth2-oidc-sdk-9.7.jar tomcat-embed-websocket-9.0.68.jar netty-codec-s
+ ocks-4.1.84.Final.jar slf4j-api-1.7.36.jar netty-tcnative-boringssl-sta
+ tic-2.0.54.Final-osx-aarch_64.jar json-smart-2.4.8.jar netty-resolver-d
+ ns-classes-macos-4.1.84.Final.jar content-type-2.1.jar spring-data-rest
+ -core-3.7.5.jar commons-io-2.11.0.jar jboss-logging-3.4.3.Final.jar net
+ ty-resolver-4.1.84.Final.jar spring-data-rest-webmvc-3.7.5.jar snakeyam
+ l-1.30.jar netty-codec-4.1.84.Final.jar reactor-core-3.4.24.jar spring-
+ boot-2.7.5.jar jakarta.activation-1.2.2.jar spring-boot-starter-aop-2.7
+ .5.jar byte-buddy-1.12.18.jar netty-codec-dns-4.1.84.Final.jar netty-tr
+ ansport-4.1.84.Final.jar spring-data-jpa-2.7.5.jar netty-tcnative-borin
+ gssl-static-2.0.54.Final.jar netty-tcnative-boringssl-static-2.0.54.Fin
+ al-linux-aarch_64.jar gson-2.9.1.jar error_prone_annotations-2.11.0.jar
+  jaxb-runtime-2.3.7.jar ant-1.8.2.jar azure-core-http-netty-1.13.2.jar 
+ spring-boot-starter-data-jpa-2.7.5.jar netty-tcnative-boringssl-static-
+ 2.0.54.Final-windows-x86_64.jar jakarta.annotation-api-1.3.5.jar
+
